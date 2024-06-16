@@ -3,7 +3,7 @@ import React from "react";
 export const Features = (props) => {
   return (
     <div id="features" className="text-center">
-      <div className="container" style={{ cursor: "pointer"}}>
+      <div className="container" style={{ cursor: "pointer" }}>
         <div className="col-md-10 col-md-offset-1 section-title">
           <h2>Đặc Trưng</h2>
         </div>
@@ -13,7 +13,7 @@ export const Features = (props) => {
                 <div key={`${d.title}-${i}`} className="col-xs-6 col-md-3">
                   {" "}
                   <h3>{d.title}</h3>
-                  <p style={{ marginBottom: "70px"}}>{d.text}</p>
+                  <p style={{ marginBottom: "70px" }}>{d.text}</p>
                 </div>
               ))
             : "Loading..."}

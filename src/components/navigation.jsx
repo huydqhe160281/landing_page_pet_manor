@@ -15,13 +15,20 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>
             <span className="icon-bar"></span>
           </button>
-          <a
-            className="navbar-brand page-scroll"
-            href="https://www.facebook.com/petmanor24/"
-            target="_blank"
-          >
-            PET MANOR
-          </a>
+          <div style={{ display: "flex", alignItems: "center" }}>
+            <img
+              src="img/favicon.png"
+              alt="logo"
+              style={{ width: "50px", height: "50px", marginRight: "10px" }}
+            />
+            <a
+              className="navbar-brand page-scroll"
+              href="https://www.facebook.com/petmanor24/"
+              target="_blank"
+            >
+              PET MANOR
+            </a>
+          </div>
         </div>
 
         <div

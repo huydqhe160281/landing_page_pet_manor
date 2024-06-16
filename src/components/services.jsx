@@ -11,7 +11,7 @@ export const Services = (props) => {
   const lastThree = data.slice(3, 6);
 
   return (
-    <div id="services" className="text-center">
+    <div id="services">
       <div className="container" style={{ cursor: "pointer" }}>
         <div className="section-title">
           <h2>Dịch vụ của chúng tôi</h2>
