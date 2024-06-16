@@ -1,0 +1,134 @@
+{
+  "Features": [
+    {
+      "title": "Chất lượng sản phẩm",
+      "text": "Quần áo Pet Manor được làm từ chất liệu cao cấp, mang lại cảm giác mềm mại và thoải mái cho thú cưng. Sản phẩm của Pet Manor cũng bền bỉ và dễ giặt sạch, đảm bảo sử dụng lâu dài."
+    },
+    {
+      "title": "Sự đa dạng trong lựa chọn",
+      "text": "Pet Manor cung cấp một loạt các thiết kế và kích cỡ đa dạng, phù hợp với mọi loại thú cưng. Khách hàng có thể dễ dàng tìm thấy sản phẩm hoàn hảo, từ trang phục hàng ngày đến những bộ đồ đặc biệt cho các dịp lễ hội."
+    },
+    {
+      "title": "Dịch vụ chuyên nghiệp",
+      "text": "Pet Manor tự hào với đội ngũ nhân viên chuyên nghiệp, luôn sẵn sàng hỗ trợ khách hàng một cách nhanh chóng và hiệu quả. Dịch vụ chăm sóc khách hàng của Pet Manor cam kết đáp ứng mọi yêu cầu và giải quyết mọi thắc mắc, đảm bảo trải nghiệm tuyệt vời cho người mua sắm."
+    },
+    {
+      "title": "Thân thiện với môi trường",
+      "text": "Pet Manor có một cam kết mạnh mẽ đối với việc sử dụng chất liệu thân thiện môi trường. Việc lựa chọn các chất liệu này không chỉ đảm bảo sự an toàn và tiện nghi cho các vật nuôi mà còn hỗ trợ bảo vệ môi trường và tài nguyên thiên nhiên."
+    }
+  ],
+  "About": {
+    "paragraph": "Pet Manor là một thương hiệu uy tín trong lĩnh vực thời trang và phụ kiện cho thú cưng, với hơn một thập kỷ kinh nghiệm. Chúng tôi tự hào về việc cung cấp các sản phẩm chất lượng cao, từ quần áo đến phụ kiện, giúp thú cưng của bạn luôn tự tin và phong cách. Đội ngũ nhân viên chuyên nghiệp của chúng tôi luôn sẵn sàng hỗ trợ và tư vấn, đảm bảo mỗi trải nghiệm mua sắm tại Pet Manor là đáng nhớ và tuyệt vời nhất cho bạn và những người bạn lông xù của bạn. Với mục tiêu mang đến sự hài lòng tối đa cho khách hàng, Pet Manor không ngừng nâng cao chất lượng sản phẩm và dịch vụ. Chúng tôi tin rằng mỗi sản phẩm của Pet Manor không chỉ là một lựa chọn thời trang mà còn là biểu tượng tình yêu và quan tâm đến thú cưng của bạn.",
+    "Why": [
+      "Chất lượng đảm bảo",
+      "Tiện lợi và linh hoạt",
+      "Đa dạng lựa chọn",
+      "Giá cả hợp lý"
+    ],
+    "Why2": [
+      "Dịch vụ chuyên nghiệp",
+      "Chất lượng đóng gói",
+      "Tiết kiệm thời gian và công sức"
+    ]
+  },
+  "Gallery": [
+    {
+      "largeImage": "img/product/2.png"
+    },
+    {
+      "largeImage": "img/product/1.png"
+    },
+    {
+      "largeImage": "img/product/3.png"
+    }
+  ],
+  "Services": [
+    {
+      "name": "Cung cấp các sản phẩm thời trang chất lượng cao",
+      "text": "Chúng tôi cung cấp một bộ sưu tập đa dạng và phù hợp với mọi loại thú cưng, từ các bộ trang phục hàng ngày đến những thiết kế đặc biệt cho các dịp đặc biệt như tiệc sinh nhật hay các buổi đi chơi. Chất liệu được lựa chọn kỹ càng và chăm sóc đặc biệt, đảm bảo mang đến sự thoải mái và an toàn tuyệt đối cho thú cưng của bạn. Với sự kết hợp tinh tế giữa thẩm mỹ và tính thực dụng, các sản phẩm của Pet Manor không chỉ giúp thú cưng trông thật đẹp mà còn phản ánh được phong cách và sự yêu quý của chủ nhân."
+    },
+    {
+      "name": "Dịch vụ QR code",
+      "text": "Dịch vụ QR code ngày càng trở thành một phần không thể thiếu trong chiến lược marketing của các doanh nghiệp hiện đại. Mã QR (Quick Response code) là một công cụ có dạng hình vuông, được sử dụng để chứa thông tin như URL, thông tin sản phẩm, thông tin liên hệ, và nhiều loại nội dung khác. Người dùng có thể dễ dàng quét mã QR bằng điện thoại thông minh của họ để truy cập nhanh chóng vào các thông tin và tài nguyên được liên kết."
+    },
+    {
+      "name": "Dịch vụ tự thiết kế",
+      "text": "Tại Pet Manor, chúng tôi hiểu rằng mỗi thú cưng là đặc biệt và đáng yêu riêng biệt, và đó cũng là lý do tại sao chúng tôi cung cấp dịch vụ tự thiết kế độc đáo để bạn có thể tạo ra những sản phẩm phù hợp với thú cưng của mình. Dịch vụ tự thiết kế tại Pet Manor không chỉ là cách để bạn mang về những sản phẩm đặc biệt cho thú cưng mà còn là cách để thể hiện tình yêu và quan tâm đến sự thoải mái và hạnh phúc của chúng."
+    },
+    {
+      "name": "Dịch vụ tư vấn chuyên nghiệp và hỗ trợ khách hàng nhanh chóng",
+      "text": "Pet Manor cam kết cung cấp dịch vụ tư vấn chuyên nghiệp và hỗ trợ khách hàng nhanh chóng để đảm bảo mọi nhu cầu của quý khách được đáp ứng tốt nhất. Đội ngũ nhân viên giàu kinh nghiệm của chúng tôi sẵn sàng giúp đỡ trong việc lựa chọn sản phẩm phù hợp nhất cho thú cưng của bạn, bao gồm cả các câu hỏi về kích thước, chất liệu và phong cách. Chúng tôi cam kết đem lại sự hài lòng và tin tưởng cho từng trải nghiệm mua sắm tại Pet Manor."
+    },
+    {
+      "name": "Chính sách đổi trả linh hoạt và đảm bảo chất lượng sản phẩm",
+      "text": "Chúng tôi luôn sẵn sàng đổi trả sản phẩm nếu quý khách không hài lòng về chất lượng hoặc sự phù hợp của sản phẩm. Chúng tôi cam kết duy trì các tiêu chuẩn nghiêm ngặt trong quá trình sản xuất và kiểm tra sản phẩm, đảm bảo mọi sản phẩm đều đạt chuẩn cao về cả thiết kế và vật liệu. Điều này giúp đảm bảo rằng thú cưng của bạn sẽ luôn được mặc các sản phẩm tốt nhất từ Pet Manor."
+    },
+    {
+      "name": "Giao hàng nhanh chóng và tiện lợi",
+      "text": "Chúng tôi đặt lịch giao hàng chính xác và linh hoạt, đảm bảo sản phẩm đến tay khách hàng trong thời gian ngắn nhất có thể. Chúng tôi sử dụng các phương tiện vận chuyển đáng tin cậy để đảm bảo sản phẩm không bị hư hỏng và đáp ứng đúng nhu cầu của khách hàng. Điều này giúp tăng thêm sự hài lòng và tin tưởng của quý khách đối với dịch vụ của chúng tôi tại Pet Manor."
+    }
+  ],
+  "Testimonials": [
+    {
+      "text": "Quần áo từ Pet Manor thực sự làm thú cưng của tôi trông thật dễ thương và sang trọng. Chất liệu mềm mại và thiết kế đa dạng, tôi hoàn toàn hài lòng!",
+      "name": "Minh Anh"
+    },
+    {
+      "text": "Pet Manor có những bộ đồ thú cưng vô cùng đáng yêu và thời trang. Nó thậm chí còn giúp thú cưng của tôi tỏa sáng hơn trong các buổi dạo phố.",
+      "name": "Lan Anh"
+    },
+    {
+      "text": "Tôi rất thích chất lượng sản phẩm và sự chuyên nghiệp trong dịch vụ của Pet Manor. Đặc biệt là họ luôn giúp đỡ tôi chọn lựa các sản phẩm phù hợp nhất cho thú cưng của mình.",
+      "name": "Hoàng Nam"
+    },
+    {
+      "text": "Quần áo từ Pet Manor không chỉ đẹp mà còn rất tiện dụng và dễ giặt giũ. Tôi rất hài lòng với sự lựa chọn này cho thú cưng của mình.",
+      "name": "Linh Chi"
+    },
+    {
+      "text": "Sản phẩm từ Pet Manor mang đến cho thú cưng của tôi không chỉ là sự thoải mái mà còn là sự tự tin. Tôi thực sự tin tưởng và sẽ tiếp tục ủng hộ.",
+      "name": "Huyền Trang"
+    },
+    {
+      "text": "Pet Manor là điểm đến tin cậy của tôi mỗi khi tôi cần các sản phẩm thú cưng chất lượng. Tôi đã từng và sẽ luôn giới thiệu cho bạn bè của mình.",
+      "name": "Tuấn Anh"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/huy.jpg",
+      "name": "Đỗ Quốc Huy",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/duc.png",
+      "name": "Nguyễn Mạnh Đức",
+      "job": "CPO"
+    },
+    {
+      "img": "img/team/tu.png",
+      "name": "Văn Tiến Tú",
+      "job": "CCO"
+    },
+    {
+      "img": "img/team/linh.png",
+      "name": "Bùi Xuân Linh",
+      "job": "COO + CSO"
+    },
+    {
+      "img": "img/team/dat.png",
+      "name": "Nguyễn Tiến Đạt",
+      "job": "CMO"
+    },
+    {
+      "img": "img/team/ky.png",
+      "name": "Trần Thiệu Kỳ",
+      "job": "CFO"
+    }
+  ],
+  "Contact": {
+    "address": "FPT University",
+    "phone": "+84 333656178",
+    "email": "thanhntths163179@fpt.edu.vn"
+  }
+}
