@@ -22,7 +22,7 @@ export const Navigation = (props) => {
               style={{ width: "50px", height: "50px", marginRight: "10px" }}
             />
             <a
-              className="navbar-brand page-scroll"
+              className="page-scroll color-gradient"
               href="https://www.facebook.com/petmanor24/"
               target="_blank"
             >
