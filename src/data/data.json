@@ -18,7 +18,7 @@
     }
   ],
   "About": {
-    "paragraph": "Pet Manor là một thương hiệu uy tín trong lĩnh vực thời trang và phụ kiện cho thú cưng, với hơn một thập kỷ kinh nghiệm. Chúng tôi tự hào về việc cung cấp các sản phẩm chất lượng cao, từ quần áo đến phụ kiện, giúp thú cưng của bạn luôn tự tin và phong cách. Đội ngũ nhân viên chuyên nghiệp của chúng tôi luôn sẵn sàng hỗ trợ và tư vấn, đảm bảo mỗi trải nghiệm mua sắm tại Pet Manor là đáng nhớ và tuyệt vời nhất cho bạn và những người bạn lông xù của bạn. Với mục tiêu mang đến sự hài lòng tối đa cho khách hàng, Pet Manor không ngừng nâng cao chất lượng sản phẩm và dịch vụ. Chúng tôi tin rằng mỗi sản phẩm của Pet Manor không chỉ là một lựa chọn thời trang mà còn là biểu tượng tình yêu và quan tâm đến thú cưng của bạn.",
+    "paragraph": "Pet Manor là một thương hiệu uy tín trong lĩnh vực thời trang cho thú cưng. Chúng tôi tự hào về việc cung cấp các sản phẩm quần áo chất lượng cao, giúp thú cưng của bạn luôn tự tin và phong cách. Đội ngũ nhân viên chuyên nghiệp của chúng tôi luôn sẵn sàng hỗ trợ và tư vấn, đảm bảo mỗi trải nghiệm mua sắm tại Pet Manor là đáng nhớ và tuyệt vời nhất cho bạn và những người bạn lông xù của bạn. Với mục tiêu mang đến sự hài lòng tối đa cho khách hàng, Pet Manor không ngừng nâng cao chất lượng sản phẩm và dịch vụ. Chúng tôi tin rằng mỗi sản phẩm của Pet Manor không chỉ là một lựa chọn thời trang mà còn là biểu tượng tình yêu và quan tâm đến thú cưng của bạn.",
     "Why": [
       "Chất lượng đảm bảo",
       "Tiện lợi và linh hoạt",
@@ -44,20 +44,8 @@
   ],
   "Services": [
     {
-      "name": "Cung cấp các sản phẩm thời trang chất lượng cao",
-      "text": "Chúng tôi cung cấp một bộ sưu tập đa dạng và phù hợp với mọi loại thú cưng, từ các bộ trang phục hàng ngày đến những thiết kế đặc biệt cho các dịp đặc biệt như tiệc sinh nhật hay các buổi đi chơi. Chất liệu được lựa chọn kỹ càng và chăm sóc đặc biệt, đảm bảo mang đến sự thoải mái và an toàn tuyệt đối cho thú cưng của bạn. Với sự kết hợp tinh tế giữa thẩm mỹ và tính thực dụng, các sản phẩm của Pet Manor không chỉ giúp thú cưng trông thật đẹp mà còn phản ánh được phong cách và sự yêu quý của chủ nhân."
-    },
-    {
-      "name": "Dịch vụ QR code",
-      "text": "Dịch vụ QR code ngày càng trở thành một phần không thể thiếu trong chiến lược marketing của các doanh nghiệp hiện đại. Mã QR (Quick Response code) là một công cụ có dạng hình vuông, được sử dụng để chứa thông tin như URL, thông tin sản phẩm, thông tin liên hệ, và nhiều loại nội dung khác. Người dùng có thể dễ dàng quét mã QR bằng điện thoại thông minh của họ để truy cập nhanh chóng vào các thông tin và tài nguyên được liên kết."
-    },
-    {
       "name": "Dịch vụ tự thiết kế",
       "text": "Tại Pet Manor, chúng tôi hiểu rằng mỗi thú cưng là đặc biệt và đáng yêu riêng biệt, và đó cũng là lý do tại sao chúng tôi cung cấp dịch vụ tự thiết kế độc đáo để bạn có thể tạo ra những sản phẩm phù hợp với thú cưng của mình. Dịch vụ tự thiết kế tại Pet Manor không chỉ là cách để bạn mang về những sản phẩm đặc biệt cho thú cưng mà còn là cách để thể hiện tình yêu và quan tâm đến sự thoải mái và hạnh phúc của chúng."
-    },
-    {
-      "name": "Dịch vụ tư vấn chuyên nghiệp và hỗ trợ khách hàng nhanh chóng",
-      "text": "Pet Manor cam kết cung cấp dịch vụ tư vấn chuyên nghiệp và hỗ trợ khách hàng nhanh chóng để đảm bảo mọi nhu cầu của quý khách được đáp ứng tốt nhất. Đội ngũ nhân viên giàu kinh nghiệm của chúng tôi sẵn sàng giúp đỡ trong việc lựa chọn sản phẩm phù hợp nhất cho thú cưng của bạn, bao gồm cả các câu hỏi về kích thước, chất liệu và phong cách. Chúng tôi cam kết đem lại sự hài lòng và tin tưởng cho từng trải nghiệm mua sắm tại Pet Manor."
     },
     {
       "name": "Chính sách đổi trả linh hoạt và đảm bảo chất lượng sản phẩm",
@@ -66,32 +54,53 @@
     {
       "name": "Giao hàng nhanh chóng và tiện lợi",
       "text": "Chúng tôi đặt lịch giao hàng chính xác và linh hoạt, đảm bảo sản phẩm đến tay khách hàng trong thời gian ngắn nhất có thể. Chúng tôi sử dụng các phương tiện vận chuyển đáng tin cậy để đảm bảo sản phẩm không bị hư hỏng và đáp ứng đúng nhu cầu của khách hàng. Điều này giúp tăng thêm sự hài lòng và tin tưởng của quý khách đối với dịch vụ của chúng tôi tại Pet Manor."
+    },
+    {
+      "name": "Dịch vụ QR code",
+      "text": "Dịch vụ QR code ngày càng trở thành một phần không thể thiếu trong chiến lược marketing của các doanh nghiệp hiện đại. Mã QR (Quick Response code) là một công cụ có dạng hình vuông, được sử dụng để chứa thông tin như URL, thông tin sản phẩm, thông tin liên hệ, và nhiều loại nội dung khác. Người dùng có thể dễ dàng quét mã QR bằng điện thoại thông minh của họ để truy cập nhanh chóng vào các thông tin và tài nguyên được liên kết."
+    },
+    {
+      "name": "Dịch vụ tư vấn chuyên nghiệp và hỗ trợ khách hàng nhanh chóng",
+      "text": "Pet Manor cam kết cung cấp dịch vụ tư vấn chuyên nghiệp và hỗ trợ khách hàng nhanh chóng để đảm bảo mọi nhu cầu của quý khách được đáp ứng tốt nhất. Đội ngũ nhân viên giàu kinh nghiệm của chúng tôi sẵn sàng giúp đỡ trong việc lựa chọn sản phẩm phù hợp nhất cho thú cưng của bạn, bao gồm cả các câu hỏi về kích thước, chất liệu và phong cách. Chúng tôi cam kết đem lại sự hài lòng và tin tưởng cho từng trải nghiệm mua sắm tại Pet Manor."
+    },
+    {
+      "name": "Cung cấp các sản phẩm thời trang chất lượng cao",
+      "text": "Chúng tôi cung cấp một bộ sưu tập đa dạng và phù hợp với mọi loại thú cưng, từ các bộ trang phục hàng ngày đến những thiết kế đặc biệt cho các dịp đặc biệt như tiệc sinh nhật hay các buổi đi chơi. Chất liệu được lựa chọn kỹ càng và chăm sóc đặc biệt, đảm bảo mang đến sự thoải mái và an toàn tuyệt đối cho thú cưng của bạn. Với sự kết hợp tinh tế giữa thẩm mỹ và tính thực dụng, các sản phẩm của Pet Manor không chỉ giúp thú cưng trông thật đẹp mà còn phản ánh được phong cách và sự yêu quý của chủ nhân."
     }
   ],
   "Testimonials": [
     {
-      "text": "Quần áo từ Pet Manor thực sự làm thú cưng của tôi trông thật dễ thương và sang trọng. Chất liệu mềm mại và thiết kế đa dạng, tôi hoàn toàn hài lòng!",
-      "name": "Minh Anh"
-    },
-    {
-      "text": "Pet Manor có những bộ đồ thú cưng vô cùng đáng yêu và thời trang. Nó thậm chí còn giúp thú cưng của tôi tỏa sáng hơn trong các buổi dạo phố.",
-      "name": "Lan Anh"
-    },
-    {
-      "text": "Tôi rất thích chất lượng sản phẩm và sự chuyên nghiệp trong dịch vụ của Pet Manor. Đặc biệt là họ luôn giúp đỡ tôi chọn lựa các sản phẩm phù hợp nhất cho thú cưng của mình.",
-      "name": "Hoàng Nam"
-    },
-    {
+      "id": 3,
       "text": "Quần áo từ Pet Manor không chỉ đẹp mà còn rất tiện dụng và dễ giặt giũ. Tôi rất hài lòng với sự lựa chọn này cho thú cưng của mình.",
       "name": "Linh Chi"
     },
+
     {
+      "id": 5,
+
+      "text": "Pet Manor là điểm đến tin cậy của tôi mỗi khi tôi cần các sản phẩm thú cưng chất lượng. Tôi đã từng và sẽ luôn giới thiệu cho bạn bè của mình.",
+      "name": "Tuấn Anh"
+    },
+    {
+      "id": 4,
+
       "text": "Sản phẩm từ Pet Manor mang đến cho thú cưng của tôi không chỉ là sự thoải mái mà còn là sự tự tin. Tôi thực sự tin tưởng và sẽ tiếp tục ủng hộ.",
       "name": "Huyền Trang"
     },
     {
-      "text": "Pet Manor là điểm đến tin cậy của tôi mỗi khi tôi cần các sản phẩm thú cưng chất lượng. Tôi đã từng và sẽ luôn giới thiệu cho bạn bè của mình.",
-      "name": "Tuấn Anh"
+      "id": 2,
+      "text": "Pet Manor có những bộ đồ thú cưng vô cùng đáng yêu và thời trang. Nó thậm chí còn giúp thú cưng của tôi tỏa sáng hơn trong các buổi dạo phố.",
+      "name": "Lan Anh"
+    },
+    {
+      "id": 1,
+      "text": "Quần áo từ Pet Manor thực sự làm thú cưng của tôi trông thật dễ thương và sang trọng. Chất liệu mềm mại và thiết kế đa dạng, tôi hoàn toàn hài lòng!",
+      "name": "Minh Anh"
+    },
+    {
+      "id": 6,
+      "text": "Tôi rất thích chất lượng sản phẩm và sự chuyên nghiệp trong dịch vụ của Pet Manor. Đặc biệt là họ luôn giúp đỡ tôi chọn lựa các sản phẩm phù hợp nhất cho thú cưng của mình.",
+      "name": "Hoàng Nam"
     }
   ],
   "Team": [
