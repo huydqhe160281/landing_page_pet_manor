@@ -7,7 +7,7 @@ import { Services } from "./components/services";
 import { Gallery } from "./components/gallery";
 import { Testimonials } from "./components/testimonials";
 import { Contact } from "./components/contact";
-import JsonData from "./data/data.json";
+import JsonData from "./data.json";
 import SmoothScroll from "smooth-scroll";
 import BackToTopButton from "./components/backtotop";
 import "./App.css";
@@ -19,8 +19,32 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
+
   useEffect(() => {
     setLandingPageData(JsonData);
+
+    const updateClickCount = async () => {
+      try {
+        const response = await fetch("http://localhost:5000/NumberClickPage");
+        const data = await response.json();
+        const { numberClick } = data;
+
+        await fetch("http://localhost:5000/NumberClickPage", {
+          method: "PUT",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            ...data,
+            numberClick: numberClick + 1,
+          }),
+        });
+      } catch (error) {
+        console.error("Error updating click count:", error);
+      }
+    };
+
+    updateClickCount();
   }, []);
 
   return (

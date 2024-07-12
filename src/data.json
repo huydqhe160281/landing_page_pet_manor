@@ -139,5 +139,9 @@
     "address": "FPT University",
     "phone": "+84 333656178",
     "email": "thanhntths163179@fpt.edu.vn"
+  },
+  "NumberClickPage": {
+    "number": 0,
+    "numberClick": 0
   }
 }
